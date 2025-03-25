@@ -12,7 +12,7 @@ Shortify is a lightweight URL shortener API built with Express.js and MongoDB th
 ## Tech Stack
 
 - **Backend:** Express.js, Node.js
-- **Database:** ongoDB (with Mongoose)
+- **Database:** MongoDB (with Mongoose)
 - **Frontend:** React
 - **QR Code Library:** qrcode
 
